@@ -8,3 +8,4 @@ Digital clocks are often associated with electronic drives, but the "digital" de
 HTML, CSS and JavaScript were combined in the project.
 </h3>
 
+![](DC.png)
